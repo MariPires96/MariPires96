@@ -29,6 +29,5 @@ Atualmente estou estudando **na Generation Brasil**, onde venho aprimorando minh
 
 > “A criatividade é a inteligência se divertindo.” – Albert Einstein
 >
-<p align="center">
-  <img src="https://i.imgur.com/JIX9bPO.gif" width="200" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/line.svg" />
+
