@@ -21,7 +21,7 @@ Atualmente estou estudando **na Generation Brasil**, onde venho aprimorando minh
 ---
 
 ## 📫 Como me encontrar
-💼 [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/marianabpires/))  
+💼 [LinkedIn](https://www.linkedin.com/in/marianabpires/))  
 📷 [Instagram](https://www.instagram.com/mariana.bpires)  
 ✉️ **mariana.pires96@hotmail.com**
 
