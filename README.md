@@ -31,13 +31,6 @@ Sou **Desenvolvedora Full Stack** e graduanda em **Análise e Desenvolvimento de
 
 ---
 
-### 🐍 Contribuições (Snake Game)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MariPires96/MariPires96/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</div>
-
----
 
 ### 📫 Como me encontrar
 
@@ -49,7 +42,7 @@ Sou **Desenvolvedora Full Stack** e graduanda em **Análise e Desenvolvimento de
 
 <div align="center">
   <br />
-  *"A criatividade é a inteligência se divertindo."* – **Albert Einstein**
+  "A criatividade é a inteligência se divertindo." – Albert Einstein
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D4A3A3&height=100&section=footer" alt="Rodapé" />
 </div>
