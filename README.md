@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou a Mariana!
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Mariana%20Pires&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Banner Animado" />
   
