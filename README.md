@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4A3A3&height=200&section=header&text=Mariana%20Pires&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Banner Animado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4A3A3&height=180&section=header&text=Mariana%20Pires&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Banner Animado" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8E6E6E&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack;Graduanda+em+ADS;Formada+pela+Generation+Brasil" alt="Typing SVG" />
 </div>
@@ -31,18 +31,25 @@ Sou **Desenvolvedora Full Stack** e graduanda em **Análise e Desenvolvimento de
 
 ---
 
+### 🐍 Contribuições (Snake Game)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MariPires96/MariPires96/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
+
+---
+
 ### 📫 Como me encontrar
 
-* 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)
-* 📸 [Instagram](https://instagram.com/seu-usuario)
+* 💼 [LinkedIn](https://linkedin.com/in/marianabpires)
+* 📸 [Instagram](https://instagram.com/mariana.bpires)
 * 📧 [mariana.pires96@hotmail.com](mailto:mariana.pires96@hotmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4A3A3&height=100&section=footer" alt="Rodapé" />
-  
   <br />
-  
   *"A criatividade é a inteligência se divertindo."* – **Albert Einstein**
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4A3A3&height=100&section=footer" alt="Rodapé" />
 </div>
