@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Mariana%20Pires&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Banner Animado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4A3A3&height=200&section=header&text=Mariana%20Pires&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Banner Animado" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&width=500&lines=Desenvolvedora+Full+Stack;Graduanda+em+ADS;Formada+pela+Generation+Brasil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8E6E6E&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack;Graduanda+em+ADS;Formada+pela+Generation+Brasil" alt="Typing SVG" />
 </div>
 
 ---
@@ -40,7 +40,7 @@ Sou **Desenvolvedora Full Stack** e graduanda em **Análise e Desenvolvimento de
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" alt="Rodapé" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4A3A3&height=100&section=footer" alt="Rodapé" />
   
   <br />
   
